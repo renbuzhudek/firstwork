@@ -1,6 +1,7 @@
 {
   "name": "vueproject",
   "version": "1.0.0",
+  "homepage":"https://renbuzhudek.github.io/firstwork/",
   "description": "A Vue.js project",
   "author": "renbuzhudek <464879673@qq.com>",
   "private": true,
